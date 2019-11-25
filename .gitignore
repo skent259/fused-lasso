@@ -1,10 +1,11 @@
 /BM3D
-/BM3D_images
+# /BM3D_images
 /deliverables
-/fl_images
+# /fl_images
 /libs
 /*_cache
 *.Rdata
-*.pdf
-*.png
+# *.png
 .Rhistory
+
+/R/old/
