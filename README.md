@@ -2,7 +2,7 @@
 
 This package includes a fused lasso implementation in R, based on Tibshirani et al. (2005) “Sparsity and Smoothness via the Fused Lasso.”
 
-This implementation was created as a final project in Stat 771 - Statistical Computing.  The final paper, which has a brief explanation of fused lasso and some experiments comparing it to the BM3D algorithm (Dabov et al. 2007) for an image de-noising task
+This implementation was created as a final project in Stat 771 - Statistical Computing.  The final paper, fused-lasso-explanation.pdf, has a brief explanation of fused lasso and some experiments comparing it to the BM3D algorithm (Dabov et al. 2007) for an image de-noising task.
 
 ## References
 
